@@ -1,0 +1,10 @@
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/App.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/Launcher.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/llm/AnthropicClient.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/llm/GeminiClient.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/llm/LlmClient.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/llm/OpenAiClient.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/mcp/CampusMcpClient.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/rag/RagService.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/rag/RagService_old.java
+/home/arman/Documents/Advanced Programming/Assignement/example-code/reference-javafx-client/src/main/java/com/campus/client/ui/MainView.java
